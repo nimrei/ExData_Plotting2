@@ -1,7 +1,7 @@
 #Assignment 2
 
-#convenience file to read in data to 
-#avoid repeating file reading code
+#convenience file to read in data
+#to avoid repeating file reading code
 
 #Result: reads NEI & SCC files into global space
 
